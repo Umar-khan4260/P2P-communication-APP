@@ -1,0 +1,10 @@
+E:\CN  Project\ServerApp\bin\Debug\ServerApp.exe.config
+E:\CN  Project\ServerApp\bin\Debug\ServerApp.exe
+E:\CN  Project\ServerApp\bin\Debug\ServerApp.pdb
+E:\CN  Project\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+E:\CN  Project\ServerApp\obj\Debug\ServerApp.ServerForm.resources
+E:\CN  Project\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+E:\CN  Project\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+E:\CN  Project\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+E:\CN  Project\ServerApp\obj\Debug\ServerApp.exe
+E:\CN  Project\ServerApp\obj\Debug\ServerApp.pdb
